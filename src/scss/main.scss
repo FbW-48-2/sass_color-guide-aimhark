@@ -1,3 +1,9 @@
+// before I would use @import but new best practise is to use @forward
+
+@forward "./variables";
+@forward './layout';
+@forward './mixins';
+
 // This is where you can import other stylesheets or write your scss code
 @import "../../node_modules/bootstrap/scss/bootstrap";
 
