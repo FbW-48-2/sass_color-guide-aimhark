@@ -14,4 +14,4 @@ Create a color guide in sass!
  
 ![mock-image-mobile](/reference-images/reference-image-mobile.png)
 
-![mock-image-desktop](/reference-images/reference-image-desktop.png)
+![mock-image-desktop](/reference-images/reference-image-desktop.png)# color-guide
